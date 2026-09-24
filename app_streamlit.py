@@ -15,7 +15,7 @@ CARPETA_DB = "chroma_db"
 EMBEDDING_MODEL = "nomic-embed-text"
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = 
 
 NOMBRE_ASISTENTE = "JusticIA"
 
